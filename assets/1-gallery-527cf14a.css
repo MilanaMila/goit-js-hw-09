@@ -1,0 +1,1 @@
+.gallery{display:flex;flex-wrap:wrap;gap:24px;padding-top:50px}.gallery>.gallery-item{flex-basis:calc((100% - 48px) / 3)}.sl-wrapper{background-color:#2e2f42cc;color:#fff}.sl-wrapper .sl-counter,.sl-wrapper .sl-close,.sl-wrapper .sl-navigation button{color:inherit}

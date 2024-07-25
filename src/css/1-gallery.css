@@ -1,0 +1,27 @@
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    padding-top: 50px;
+}
+
+.gallery>.gallery-item {
+    flex-basis: calc((100% - 48px) / 3);
+}
+
+.sl-wrapper {
+    background-color: rgba(46, 47, 66, 0.8);
+    color: #fff;
+}
+
+.sl-wrapper .sl-counter {
+    color: inherit;
+}
+
+.sl-wrapper .sl-close {
+    color: inherit;
+}
+
+.sl-wrapper .sl-navigation button {
+    color: inherit;
+}
